@@ -8,7 +8,7 @@ def countdown(time_sec):
         time.sleep(1)
         time_sec -= 1
 
-    print("stop   ")
+    print("stop     ")
 
 countdown(5)
 
